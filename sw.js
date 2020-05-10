@@ -48,28 +48,28 @@ self.__precacheManifest = [
     "revision": "de5e22b15cf20cb0d586a036d714ee3f"
   },
   {
-    "url": "certificate.0cb3e329.css",
-    "revision": "0e54e01d7e66a8f25ed94fc0cff3704f"
-  },
-  {
-    "url": "certificate.614d34e2.js",
-    "revision": "d1e0facf6a099ef54c5f605b9825c9bf"
+    "url": "certificate.4bf96924.css",
+    "revision": "bfea115b157a04e2bfe4ce24928bb187"
   },
   {
     "url": "certificate.84dda806.pdf",
     "revision": "343ac8bb3542a6578f2a4cbaf0f99679"
   },
   {
-    "url": "confidentialite.0cb3e329.css",
-    "revision": "61c3ea4bbaccd65f8f44eddd5f156928"
+    "url": "certificate.b458efa8.js",
+    "revision": "a59e2974b8bffa8a48e5a740864d9755"
   },
   {
-    "url": "confidentialite.26a26e68.js",
-    "revision": "49682bf8e81b7e1428cb9e8e0356d45c"
+    "url": "confidentialite.4bf96924.css",
+    "revision": "dc6f87dca13d10d06cb3b277542763d6"
+  },
+  {
+    "url": "confidentialite.a81b3edb.js",
+    "revision": "33ddc7434ef6fb4df93a3780e80cfff5"
   },
   {
     "url": "confidentialite.html",
-    "revision": "4b7aca51683d4a9dc2d5a7fd62a66607"
+    "revision": "6ee9b74e03979de3fd506cf8ad295db0"
   },
   {
     "url": "favicon-16x16.a4687270.png",
@@ -81,7 +81,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "0b409f9465f8cabe9647fb8929abb1e1"
+    "revision": "606fab1b7b6c3752f98c6593010b1841"
   },
   {
     "url": "logo_dnum_dark.0fe33c5b.svg",
@@ -121,9 +121,9 @@ self.__precacheManifest = [
   },
   {
     "url": "./",
-    "revision": "2d5ec1ab1a9bf78ca1f2e63c7023ff98"
+    "revision": "7570927d02cfbfe0f990b1819bc7a840"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/~david/dist/index.html"));
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/autoattestcovid/index.html"));
